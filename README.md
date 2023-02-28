@@ -1,5 +1,5 @@
 # -
-基于MFC框架的数值计算方法项目
+ComputingMethods基于MFC框架的数值计算方法项目
 例如：
   方程求根：二分法求方程根、简单迭代、牛顿迭代
   线性方程求解：Jacobi迭代、Gauss-Seidel迭代、Gauss消元法-不选主元、Gauss消元法-列选主元、矩阵的LU分解、LU分解法求解方程组的解
