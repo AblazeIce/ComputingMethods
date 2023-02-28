@@ -1,4 +1,5 @@
 # -
+ComputingMethods目的:计算方法结课作业
 ComputingMethods基于MFC框架的数值计算方法项目
 例如：
   方程求根：二分法求方程根、简单迭代、牛顿迭代
