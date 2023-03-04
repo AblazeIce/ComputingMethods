@@ -1,4 +1,4 @@
-# -ComputingMethods目的:计算方法结课作业
+#计算方法结课作业
 
 ComputingMethods基于MFC框架的数值计算方法项目
 
